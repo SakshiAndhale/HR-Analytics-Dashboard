@@ -35,3 +35,7 @@ The HR Analytics Dashboard provides a clear understanding of the factors driving
 
 ## Final Dashboard
 ![Screenshot 2024-08-01 235935](https://github.com/user-attachments/assets/102c5eb6-37c1-4602-aa8d-48ccf73f03b0)
+
+## Technologies Used
+**Excel**: Used for data cleaning, organizing, and preliminary analysis.
+**Power BI**: Used for visualisation and story telling with data.
