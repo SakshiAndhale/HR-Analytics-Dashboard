@@ -7,6 +7,9 @@ This repository contains the HR Analytics Dashboard, designed to analyze and vis
 - **Comprehensive Data Visualization**: The dashboard presents a wide range of metrics in an easy-to-understand format, including pie charts, bar graphs, and tables, allowing for a detailed analysis of employee attrition.
 - **Interactivity**: Users can filter data based on different criteria, such as department and job role, to explore specific areas of interest.
 
+## Final Dashboard
+![Screenshot 2024-08-01 235935](https://github.com/user-attachments/assets/102c5eb6-37c1-4602-aa8d-48ccf73f03b0)
+
 ## Key Metrics Targeted
 The dashboard focuses on several key metrics that provide valuable insights into employee attrition:
 
@@ -32,9 +35,6 @@ The HR Analytics Dashboard provides a clear understanding of the factors driving
 2. **Offer Career Development Opportunities**: Providing employees with clear career paths and development opportunities can help retain top talent and reduce turnover.
 3. **Improve Compensation Packages**: Ensuring that salaries are competitive and reflect the employees' contributions to the organization can address financial dissatisfaction and lower attrition rates.
 4. **Promote Work-Life Balance**: Introducing flexible work arrangements and wellness programs can improve employee satisfaction and reduce burnout, which is a key factor in attrition.
-
-## Final Dashboard
-![Screenshot 2024-08-01 235935](https://github.com/user-attachments/assets/102c5eb6-37c1-4602-aa8d-48ccf73f03b0)
 
 ## Technologies Used
 **Excel**: Used for data cleaning, organizing, and preliminary analysis.
